@@ -1,0 +1,18 @@
+Vivado Simulator 2017.4
+Copyright 1986-1999, 2001-2016 Xilinx, Inc. All Rights Reserved.
+Running: D:/Vivado2017.4/Vivado/2017.4/bin/unwrapped/win64.o/xelab.exe -wto bd3ccd3a57ea4499a68346ee7b62271c --incr --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot sim_behav xil_defaultlib.sim xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+WARNING: [XSIM 43-4099] "C:/Users/ZM/Desktop/ManchestCoding/ManchestCoding.srcs/sources_1/new/top.v" Line 12. Module top doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/ZM/Desktop/ManchestCoding/ManchestCoding.srcs/sources_1/new/manchest_incode.v" Line 12. Module manchest_incode doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/ZM/Desktop/ManchestCoding/ManchestCoding.srcs/sources_1/new/manchest_decode.v" Line 13. Module manchest_decode doesn't have a timescale but at least one module in design has a timescale.
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.manchest_incode
+Compiling module xil_defaultlib.manchest_decode
+Compiling module xil_defaultlib.top
+Compiling module xil_defaultlib.sim
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot sim_behav

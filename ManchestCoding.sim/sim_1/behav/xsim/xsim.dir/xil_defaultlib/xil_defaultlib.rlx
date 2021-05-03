@@ -1,0 +1,9 @@
+0.6
+2017.4
+Dec 15 2017
+21:07:18
+C:/Users/ZM/Desktop/ManchestCoding/ManchestCoding.sim/sim_1/behav/xsim/glbl.v,1513215259,verilog,,,,glbl,,,,,,,,
+C:/Users/ZM/Desktop/ManchestCoding/ManchestCoding.srcs/sim_1/new/sim.v,1619757214,verilog,,,,sim,,,,,,,,
+C:/Users/ZM/Desktop/ManchestCoding/ManchestCoding.srcs/sources_1/new/manchest_decode.v,1619770886,verilog,,C:/Users/ZM/Desktop/ManchestCoding/ManchestCoding.srcs/sources_1/new/manchest_incode.v,,manchest_decode,,,,,,,,
+C:/Users/ZM/Desktop/ManchestCoding/ManchestCoding.srcs/sources_1/new/manchest_incode.v,1619770741,verilog,,C:/Users/ZM/Desktop/ManchestCoding/ManchestCoding.srcs/sources_1/new/top.v,,manchest_incode,,,,,,,,
+C:/Users/ZM/Desktop/ManchestCoding/ManchestCoding.srcs/sources_1/new/top.v,1619756324,verilog,,C:/Users/ZM/Desktop/ManchestCoding/ManchestCoding.srcs/sim_1/new/sim.v,,top,,,,,,,,
